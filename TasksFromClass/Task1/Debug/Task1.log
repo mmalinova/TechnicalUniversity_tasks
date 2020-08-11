@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Task1.cpp
+c:\users\velko\desktop\elly\pik 3\tasksfromclass\task1\task1.cpp(28): error C2371: 'GROUP': redefinition; different basic types
+  c:\users\velko\desktop\elly\pik 3\tasksfromclass\task1\task1.cpp(21): note: see declaration of 'GROUP'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(361,5): error MSB6006: "CL.exe" exited with code 2.
+c:\users\velko\desktop\elly\pik 3\tasksfromclass\task1\task1.cpp(33): error C2027: use of undefined type 'GROUP'
+  c:\users\velko\desktop\elly\pik 3\tasksfromclass\task1\task1.cpp(28): note: see declaration of 'GROUP'
+c:\users\velko\desktop\elly\pik 3\tasksfromclass\task1\task1.cpp(33): error C2228: left of '.nameFac' must have class/struct/union
+c:\users\velko\desktop\elly\pik 3\tasksfromclass\task1\task1.cpp(33): error C3861: 'gets': identifier not found
+c:\users\velko\desktop\elly\pik 3\tasksfromclass\task1\task1.cpp(38): error C2079: 'a' uses undefined struct 'GROUP'
